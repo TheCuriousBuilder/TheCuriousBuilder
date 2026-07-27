@@ -2,7 +2,7 @@
 
 Curious builder exploring **robotics, coding, and real-world problem solving**. Always learning, always creating.
 
-I'm a student (starting Grade 9 in 2026) who likes turning ideas into things that actually run — games, hardware, and small tools that solve a problem I ran into. I keep a build journal for most projects because I think the interesting part is what broke and why I changed direction.
+I'm a 9th Grade student who likes turning ideas into things that actually run — games, hardware, and small tools that solve a problem I ran into. I keep a build journal for most projects because I think the interesting part is what broke and why I changed direction.
 
 ## What I'm building
 
