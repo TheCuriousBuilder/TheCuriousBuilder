@@ -23,7 +23,7 @@ I tend to work across three areas:
 - **[study-habit-insights](https://github.com/TheCuriousBuilder/study-habit-insights)** — a data-science project analyzing focus, study habits, and procrastination patterns.
 
 ## Tools I use
-`Python` · `Pygame` · 3D design (STL) · `Git`
+`Python` · `Pygame` · 3D design (STL)· `C++`· `JavaScript` · `Git`
 
 ## What I'm learning right now
 Learning how parsers work, and  why my game lags when there are too many enemies on screen.
